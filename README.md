@@ -1,4 +1,4 @@
-# aouth2study
+# uauth2study
 
 npm install 
 
