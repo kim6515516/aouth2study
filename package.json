@@ -7,7 +7,7 @@
 				"express": "^4.13.1",
 				"jsrsasign": "^5.0.0",
 				"nosql": "^6.1.0",
-				"qs": "^4.0.0",
+				"qs": "^6.0.4",
 				"randomstring": "^1.0.7",
 				"sync-request": "^2.0.1",
 				"underscore": "^1.8.3",
