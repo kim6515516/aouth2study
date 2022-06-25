@@ -5,7 +5,7 @@
 				"consolidate": "^0.13.1",
 				"cors": "^2.7.1",
 				"express": "^4.13.1",
-				"jsrsasign": "^5.0.0",
+				"jsrsasign": "^10.5.25",
 				"nosql": "^6.1.0",
 				"qs": "^4.0.0",
 				"randomstring": "^1.0.7",
